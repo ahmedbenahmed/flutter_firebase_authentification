@@ -1,6 +1,7 @@
 # flutter_firebase
 
-A new Flutter project.
+
+Firebase Authentification Example using StreamBuilder
 
 ## Getting Started
 
