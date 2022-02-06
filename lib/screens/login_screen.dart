@@ -6,7 +6,7 @@ import 'package:flutter_signin_button/flutter_signin_button.dart';
 
 class LoginScreen extends StatelessWidget {
   final userNameController =
-      TextEditingController(text: "barry.allen@example.com");
+      TextEditingController(text: "emb.ahmed@example.com");
   final passwordController =
       TextEditingController(text: "SuperSecretPassword!");
 
